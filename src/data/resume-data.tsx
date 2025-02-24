@@ -77,6 +77,7 @@ export const RESUME_DATA = {
     "JavaScript",
     "TypeScript",
     "Rust",
+    "Elixir",
     "Axum",
     "Golang",
     "Python",
