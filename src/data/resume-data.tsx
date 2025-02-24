@@ -186,7 +186,7 @@ export const RESUME_DATA = {
       title: "CatOS",
       techStack: ["College Project", "Kernel Dev", "Rust", "x86_64", "QEMU"],
       description:
-        "A customer kernel for x86_64 based chipsets with basic features + a lightweight OS.",
+        "A custom kernel for x86_64 based chipsets with basic features + a lightweight OS.",
       link: {
         label: "github.com",
         href: "https://github.com/ayamdobhal/catos",
