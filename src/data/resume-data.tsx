@@ -37,6 +37,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "InVideo",
+      badges: ["On Site"],
+      title: "Software Engineer",
+      start: "Mar 2025",
+      end: "Present",
+      description:
+        "Working on invideo AI's frontend as well as backend using ReactJS, WebGL, Elixir and Rust.",
+    },
+    {
       company: "Spectre Labs LLC",
       badges: ["Remote"],
       title: "Full Stack/Blockchain Developer",
